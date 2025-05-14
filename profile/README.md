@@ -17,6 +17,4 @@ To experience the nostalgic journey to 1980s Miami, visit our website at [vantur
 
 ---
 
-Thank you for your interest in Emotion Miami. We hope you enjoy your visit!
-
 ![Vanture branding](brand.png)
