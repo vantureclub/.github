@@ -1,6 +1,6 @@
-# Vanture Club
+# Club Vanture
 
-Welcome to **Vanture Club** - an innovative project designed to transport users back to the vibrant and iconic 1980s Miami!
+Welcome to **Club Vanture** - an innovative project designed to transport users back to the vibrant and iconic 1980s Miami!
 
 
 ## Project Overview
@@ -11,7 +11,7 @@ Emotion Miami is an application meticulously crafted by the Emotion team to emul
 
 The core objective of Emotion Miami is to capture and convey the nostalgic mood and spirit of 1980s Miami. Through this application, we aim to offer visitors a brief escape from their daily routines, allowing them to immerse themselves in the captivating charm of that era.
 
-### Explore Emotion Miami
+### Explore Club Vanture
 
 To experience the nostalgic journey to 1980s Miami, visit our website at [vanture.club](http://vanture.club).
 
