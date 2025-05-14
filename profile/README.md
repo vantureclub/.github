@@ -5,7 +5,7 @@ Welcome to **Vanture** - an innovative project designed to transport users back 
 
 ## Project Overview
 
-Emotion Miami is an application meticulously crafted by the Emotion team to emulate an operating system inspired by the aesthetics and ambiance of 1980s Miami. This project stands out as a favorite among our endeavors and has provided immense satisfaction and enjoyment throughout its development.
+Vanture is an application meticulously crafted by the Emotion team to emulate an operating system inspired by the aesthetics and ambiance of 1980s Miami. This project stands out as a favorite among our endeavors and has provided immense satisfaction and enjoyment throughout its development.
 
 ### Objective
 
